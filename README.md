@@ -1,2 +1,2 @@
-# nusaccodes_tugas_akhir
+# nusacodes_tugas_akhir
 Tugas Akhir - Nusacodes
